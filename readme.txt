@@ -88,23 +88,26 @@ Gridsby is a pinterest style gallery theme which is a simple way to showcase a b
 = 1.2.7 = 
 * Fix: number input bug in theme customizer
 
+= 1.2.6 = 
+* Fix: removed http from Skype social icons
+
 = 1.2.5 = 
 * Update: Tested with WordPress 4.5, Updating Font Awesome icons to 4.6, Added Snapchat and Weibo social icon options
 
 = 1.2.4 =
-* Update: Added an option for pagination in Gallery and Fullwidth Gallery pages. Go to Appearance => Gallery Page Pagination to set bottom pagination for gallery pages. 
+* Update: Added an option for pagination in Gallery and Fullwidth Gallery pages. Go to Appearance => Gallery Page Pagination to set bottom pagination for gallery pages.
 
 = 1.2.3 =
-* Update: blog will go fullwidth if no sidebar is active
+* Update: blog will go fullwidth if no sidebar is active 
 
 = 1.2.2 =
-* Update: added many new social icon options to theme customizer 
+* Update: added many new social icon options to theme customizer  
 
 = 1.2.0 =
 * Update: added new social icon links 
 
 = 1.1.10 =
-* Fix: minor bug fixes and improvements 
+* Fix: minor bug fixes and improvements
 
 = 1.1.8 =
 * Update: updated demo link in description
